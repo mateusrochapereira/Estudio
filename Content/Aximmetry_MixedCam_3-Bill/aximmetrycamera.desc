@@ -1,0 +1,8 @@
+FileVersion 1
+Id 2
+CameraVersion 28
+SortOrder 300
+DisplayName Green camera (virtual + tracked, 1-3 billboards)
+ToolTip Use with MixedCam_Unreal_3+3-Cam or MixedCam_Unreal_8+8-Cam compound in Aximmetry. With this camera you can change between virtual and tracked camera during production.
+AssetPaths /Game/Aximmetry_VirtualCam_3-Bill/Blueprints/Aximmetry_Virtual_Camera_1-3_Billboards, /Game/Aximmetry_TrackedCam_3-Bill/Blueprints/Aximmetry_Tracked_Camera_1-3_Billboards
+Directories Aximmetry_MixedCam_3-Bill, Aximmetry_VirtualCam_3-Bill, Aximmetry_TrackedCam_3-Bill

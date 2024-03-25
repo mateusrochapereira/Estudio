@@ -1,0 +1,8 @@
+FileVersion 1
+Id 3
+CameraVersion 47
+SortOrder 200
+DisplayName Green camera (tracked, 1-3 billboards)
+ToolTip Use with TrackedCam_Unreal_3-Cam or TrackedCam_Unreal_8-Cam compound in Aximmetry.
+AssetPaths /Game/Aximmetry_TrackedCam_3-Bill/Blueprints/Aximmetry_Tracked_Camera_1-3_Billboards
+Directories Aximmetry_TrackedCam_3-Bill
